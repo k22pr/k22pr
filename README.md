@@ -1,2 +1,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=k22pr&count_private=true&show_icons=true" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=k22pr" />
+<!--
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=k22pr" />
+-->
