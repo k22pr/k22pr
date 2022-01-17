@@ -50,6 +50,8 @@
     <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white">
 </div>
 
+---
+
 <div align="center" style="margin-top:100px">
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=k22pr&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
