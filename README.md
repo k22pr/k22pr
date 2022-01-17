@@ -15,6 +15,8 @@
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
 </div>
 
+---
+
 <div style="border-top: 1px solid rgba(128,128,128,0.2);margin-top:40px;">
     <div style="font-size:24px;margin-bottom:10px">Database</div>
     <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=Prisma&logoColor=white">
@@ -22,6 +24,8 @@
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white">
 </div>
+
+---
 
 <div style="border-top: 1px solid rgba(128,128,128,0.2);margin-top:40px;">
     <div style="font-size:24px;margin-bottom:10px">Framework / Tools</div>
@@ -31,6 +35,8 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
     <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white">
 </div>
+
+---
 
 <div style="border-top: 1px solid rgba(128,128,128,0.2);margin-top:40px;">
     <div style="font-size:24px;margin-bottom:10px">etc.</div>
@@ -42,6 +48,8 @@
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 </div>
+
+---
 
 <div align="center" style="margin-top:100px">
 
